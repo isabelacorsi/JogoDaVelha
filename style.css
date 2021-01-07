@@ -1,0 +1,55 @@
+#mostrador {
+	width: 252px;
+	margin: auto;
+	margin-top: 40px;
+	height: 80px;
+	padding: 5px;
+	text-align: center;
+	
+}
+#mostrador p{
+	float:left; 
+	margin-right: 5px;
+	font-size: 23px;
+	font-family: georgia;
+}
+#mostrador h1{
+	text-align: center;
+	font-family: 36px;
+	font-family: georgia;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	padding: 10px;
+}
+
+#mostrador img{
+	border: 0px; 
+	height: 60px;
+	margin-top: 5px;
+}
+
+.espaco{
+	width: 80px;
+	height: 80px;
+	border:2px solid black;
+	float: left;
+	text-align: center;
+}
+
+.espaco img {
+	width: 80px;
+}
+
+
+
+.tabuleiro{
+	margin: auto;
+	width: 252px;
+	height: 252px;
+	margin-top: 50px;
+}
+
+#primeiro{
+	border-top: 2px solid white;
+	border-left: 2px solid #fff;
+}
